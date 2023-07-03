@@ -1,17 +1,33 @@
+### 🚀 Hi, I’m [Bartek](https://github.com/grzesikb)
+<p  align="center"><br/>
+<a  href="bartekgrzesik.pl">
+<img  src="https://img.shields.io/badge/website-bartekgrzesik.pl-black">
+</a>
+<a  href="mailto:contact@bartekgrzesik.pl">
+<img  src="https://img.shields.io/badge/contact-contact@bartekgrzesik.pl-black?style=flat-square&logo=maildotru&logoColor=white">
+</a>
+<a  href="https://www.linkedin.com/in/bart%C5%82omiej-grzesik-a8764a247/">
+<img  src="https://img.shields.io/badge/linkedin-Bartłomiej%20Grzesik-black?style=flat-square&logo=linkedin">
+</a>
+</p>
 
-### 🚀 Hi! I'm Bartek
-- 🏫 Third-year student of Computer Science.
-- 👀 I’m interested in web developing and mobile apps developing.
-- 🔥 Hungry for knowledge.
-- 🌱 I’m currently learning NestJs.
+Fullstack developer from Poland. Currently a third year computer science student. I'm passionate about creating web and mobile applications.  Curently learning Next.js.
+
+---
+
 ### 🛠 Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-### 👋 Contact
-    grzesikb@wp.pl
+
+<!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs) ![FastApi](https://img.shields.io/badge/-FastApi-black?style=for-the-badge&logo=fastapi) ![FastApi](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet) ![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass) ![MUI](https://img.shields.io/badge/-MUI-black?style=for-the-badge&logo=mui) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwindcss) ![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=threedotjs) ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress) ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma) ![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender) ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+
+---
+
+### 👋 Contact me
+
+      contact@bartekgrzesik.pl
+
+<br> 
+See more on https://bartekgrzesik.pl/
+
+---
