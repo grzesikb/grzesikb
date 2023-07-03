@@ -1,6 +1,6 @@
 ## 🚀 Hi, I’m [Bartek](https://github.com/grzesikb)
 <p align="center"><br/>
-<a  href="bartekgrzesik.pl">
+<a  href="https://bartekgrzesik.pl">
 <img  src="https://img.shields.io/badge/website-bartekgrzesik.pl-black">
 </a>
 <a  href="mailto:contact@bartekgrzesik.pl">
