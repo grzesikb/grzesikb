@@ -1,4 +1,3 @@
-## 🚀 Hi, I’m [Bartek](https://github.com/grzesikb)
 <p align="center"><br/>
 <a  href="https://bartekgrzesik.pl" target="_BLANK">
 <img  src="https://img.shields.io/badge/website-bartekgrzesik.pl-black">
@@ -11,23 +10,28 @@
 </a>
 </p>
 
-Fullstack developer from Poland. Currently a third year computer science student. I'm passionate about creating web and mobile applications.  Curently learning Next.js.
+```
+ 888888ba                      dP            dP           .88888.                                      oo dP      
+ 88    `8b                     88            88          d8'   `88                                        88      
+a88aaaa8P' .d8888b. 88d888b. d8888P .d8888b. 88  .dP     88        88d888b. d888888b .d8888b. .d8888b. dP 88  .dP 
+ 88   `8b. 88'  `88 88'  `88   88   88ooood8 88888"      88   YP88 88'  `88    .d8P' 88ooood8 Y8ooooo. 88 88888"  
+ 88    .88 88.  .88 88         88   88.  ... 88  `8b.    Y8.   .88 88        .Y8P    88.  ...       88 88 88  `8b.
+ 88888888P `88888P8 dP         dP   `88888P' dP   `YP     `88888'  dP       d888888P `88888P' `88888P' dP dP   `YP
+```
 
----
 
-### 🛠 Skills
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,nodejs,react,angular,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,prisma,redux,threejs,jest,mui,tailwind,git,figma" /></br>
+</div> 
+</br>
+<h3 align="center">
+    contact@bartekgrzesik.pl
+</h3>
+</br>
 
-<!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs) ![FastApi](https://img.shields.io/badge/-FastApi-black?style=for-the-badge&logo=fastapi) ![FastApi](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=dotnet) ![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass) ![MUI](https://img.shields.io/badge/-MUI-black?style=for-the-badge&logo=mui) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwindcss) ![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=threedotjs) ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress) ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma) ![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender) ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
----
 
-### 👋 Contact me
 
-      contact@bartekgrzesik.pl
-
-<br> 
-See more on https://bartekgrzesik.pl/
-
----
