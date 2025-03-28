@@ -1,14 +1,4 @@
-<p align="center"><br/>
-<a  href="https://bartekgrzesik.pl" target="_BLANK">
-<img  src="https://img.shields.io/badge/website-bartekgrzesik.pl-black">
-</a>
-<a  href="mailto:contact@bartekgrzesik.pl">
-<img  src="https://img.shields.io/badge/contact-contact@bartekgrzesik.pl-black?style=flat-square&logo=maildotru&logoColor=white">
-</a>
-<a  href="https://www.linkedin.com/in/bart%C5%82omiej-grzesik-a8764a247/">
-<img  src="https://img.shields.io/badge/linkedin-Bartłomiej%20Grzesik-black?style=flat-square&logo=linkedin">
-</a>
-</p>
+
 
 ```
  888888ba                      dP            dP           .88888.                                      oo dP      
