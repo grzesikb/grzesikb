@@ -10,12 +10,12 @@ a88aaaa8P' .d8888b. 88d888b. d8888P .d8888b. 88  .dP     88        88d888b. d888
 ```
 
 
-<br/>
+<!-- <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,nodejs,react,angular,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,prisma,redux,threejs,jest,mui,tailwind,git,figma" /></br>
 </div> 
-</br>
+</br> -->
 <h3 align="center">
     contact@bartekgrzesik.pl
 </h3>
